@@ -1,0 +1,11 @@
+C:\Users\anyel\Documents\WEB\Ejercicio2\Datos\bin\Debug\netstandard2.0\Datos.deps.json
+C:\Users\anyel\Documents\WEB\Ejercicio2\Datos\bin\Debug\netstandard2.0\Datos.dll
+C:\Users\anyel\Documents\WEB\Ejercicio2\Datos\bin\Debug\netstandard2.0\Datos.pdb
+C:\Users\anyel\Documents\WEB\Ejercicio2\Datos\bin\Debug\netstandard2.0\Entity.dll
+C:\Users\anyel\Documents\WEB\Ejercicio2\Datos\bin\Debug\netstandard2.0\Entity.pdb
+C:\Users\anyel\Documents\WEB\Ejercicio2\Datos\obj\Debug\netstandard2.0\Datos.csprojAssemblyReference.cache
+C:\Users\anyel\Documents\WEB\Ejercicio2\Datos\obj\Debug\netstandard2.0\Datos.AssemblyInfoInputs.cache
+C:\Users\anyel\Documents\WEB\Ejercicio2\Datos\obj\Debug\netstandard2.0\Datos.AssemblyInfo.cs
+C:\Users\anyel\Documents\WEB\Ejercicio2\Datos\obj\Debug\netstandard2.0\Datos.csproj.CopyComplete
+C:\Users\anyel\Documents\WEB\Ejercicio2\Datos\obj\Debug\netstandard2.0\Datos.dll
+C:\Users\anyel\Documents\WEB\Ejercicio2\Datos\obj\Debug\netstandard2.0\Datos.pdb

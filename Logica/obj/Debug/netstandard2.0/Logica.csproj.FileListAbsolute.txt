@@ -1,0 +1,13 @@
+C:\Users\anyel\Documents\WEB\Ejercicio2\Logica\bin\Debug\netstandard2.0\Logica.deps.json
+C:\Users\anyel\Documents\WEB\Ejercicio2\Logica\bin\Debug\netstandard2.0\Logica.dll
+C:\Users\anyel\Documents\WEB\Ejercicio2\Logica\bin\Debug\netstandard2.0\Logica.pdb
+C:\Users\anyel\Documents\WEB\Ejercicio2\Logica\bin\Debug\netstandard2.0\Datos.dll
+C:\Users\anyel\Documents\WEB\Ejercicio2\Logica\bin\Debug\netstandard2.0\Entity.dll
+C:\Users\anyel\Documents\WEB\Ejercicio2\Logica\bin\Debug\netstandard2.0\Entity.pdb
+C:\Users\anyel\Documents\WEB\Ejercicio2\Logica\bin\Debug\netstandard2.0\Datos.pdb
+C:\Users\anyel\Documents\WEB\Ejercicio2\Logica\obj\Debug\netstandard2.0\Logica.csprojAssemblyReference.cache
+C:\Users\anyel\Documents\WEB\Ejercicio2\Logica\obj\Debug\netstandard2.0\Logica.AssemblyInfoInputs.cache
+C:\Users\anyel\Documents\WEB\Ejercicio2\Logica\obj\Debug\netstandard2.0\Logica.AssemblyInfo.cs
+C:\Users\anyel\Documents\WEB\Ejercicio2\Logica\obj\Debug\netstandard2.0\Logica.csproj.CopyComplete
+C:\Users\anyel\Documents\WEB\Ejercicio2\Logica\obj\Debug\netstandard2.0\Logica.dll
+C:\Users\anyel\Documents\WEB\Ejercicio2\Logica\obj\Debug\netstandard2.0\Logica.pdb

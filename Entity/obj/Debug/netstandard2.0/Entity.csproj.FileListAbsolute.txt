@@ -1,0 +1,8 @@
+C:\Users\anyel\Documents\WEB\Ejercicio2\Entity\bin\Debug\netstandard2.0\Entity.deps.json
+C:\Users\anyel\Documents\WEB\Ejercicio2\Entity\bin\Debug\netstandard2.0\Entity.dll
+C:\Users\anyel\Documents\WEB\Ejercicio2\Entity\bin\Debug\netstandard2.0\Entity.pdb
+C:\Users\anyel\Documents\WEB\Ejercicio2\Entity\obj\Debug\netstandard2.0\Entity.csprojAssemblyReference.cache
+C:\Users\anyel\Documents\WEB\Ejercicio2\Entity\obj\Debug\netstandard2.0\Entity.AssemblyInfoInputs.cache
+C:\Users\anyel\Documents\WEB\Ejercicio2\Entity\obj\Debug\netstandard2.0\Entity.AssemblyInfo.cs
+C:\Users\anyel\Documents\WEB\Ejercicio2\Entity\obj\Debug\netstandard2.0\Entity.dll
+C:\Users\anyel\Documents\WEB\Ejercicio2\Entity\obj\Debug\netstandard2.0\Entity.pdb
